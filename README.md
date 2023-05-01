@@ -3,7 +3,6 @@
 # On client buttom
 ![r2](https://user-images.githubusercontent.com/121310040/235448595-c312bc2e-3a7a-4f07-8128-2a32452caeda.png)
 ![r3](https://user-images.githubusercontent.com/121310040/235448605-5299a4ef-b640-4974-b3b0-55f12611f0f3.png)
-![r4](https://user-images.githubusercontent.com/121310040/235448612-ef717428-9b9b-4096-83aa-89d7c6c7707c.png)
 ![r5](https://user-images.githubusercontent.com/121310040/235448619-5a140895-dfc9-4c10-8fff-587d01593d40.png)
 ![r6](https://user-images.githubusercontent.com/121310040/235448623-2301827d-a092-40e9-b36c-050f2cf9a43e.png)
 ![r7](https://user-images.githubusercontent.com/121310040/235448637-d6fc3615-3d33-420b-b5ec-61c5a5c6c040.png)
