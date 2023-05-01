@@ -17,9 +17,9 @@ There's A password for the manager:hala1234
 ![r12](https://user-images.githubusercontent.com/121310040/235449036-c22d014e-beff-4d8e-b935-511a44afa1a4.png) 
 # After entering it
 ![r13](https://user-images.githubusercontent.com/121310040/235449310-aa3fb2ef-2ff3-4c0b-974b-9944aafe2555.png)
-# Employees Data
-![r14](https://user-images.githubusercontent.com/121310040/235449401-46b4384a-b231-46be-a3b1-029bd4ceb783.png)
 # Data of Employees
+![r14](https://user-images.githubusercontent.com/121310040/235449401-46b4384a-b231-46be-a3b1-029bd4ceb783.png)
+# Adding new Employee
 # ![r15](https://user-images.githubusercontent.com/121310040/235449522-2924ba79-90d3-4521-835c-ac1ce3cb054a.png)
 # Udpading employee information
 first check the number if it exists
