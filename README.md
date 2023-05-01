@@ -1,6 +1,6 @@
 # Restaurent-Managment-System
 ![r1](https://user-images.githubusercontent.com/121310040/235448572-8e476bcf-60a3-4f69-9ddb-f1df1493a1a6.png)
-# On client buttom
+# On client button
 ![r2](https://user-images.githubusercontent.com/121310040/235448595-c312bc2e-3a7a-4f07-8128-2a32452caeda.png)
 ![r3](https://user-images.githubusercontent.com/121310040/235448605-5299a4ef-b640-4974-b3b0-55f12611f0f3.png)
 ![r5](https://user-images.githubusercontent.com/121310040/235448619-5a140895-dfc9-4c10-8fff-587d01593d40.png)
@@ -12,7 +12,7 @@
 ![r10](https://user-images.githubusercontent.com/121310040/235448732-cc936e1e-fbb1-4f6c-bc6e-3c85ac447a22.png)
 # we show the Bill
 ![r11](https://user-images.githubusercontent.com/121310040/235448828-fc12ee4d-b58f-458a-bf62-d1528906413e.png)
-# on the manager buttom
+# on the manager button
 There's A password for the manager:hala1234
 ![r12](https://user-images.githubusercontent.com/121310040/235449036-c22d014e-beff-4d8e-b935-511a44afa1a4.png) 
 # After entering it
