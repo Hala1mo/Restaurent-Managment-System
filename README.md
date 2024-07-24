@@ -1,4 +1,8 @@
 # Restaurent-Managment-System
+
+Designed and implemented a Restaurant Management System using Java and SQL. The system features 
+capabilities for menu management, order processing, billing, and reservation handling. Utilized SQL for database 
+management.
 ![r1](https://user-images.githubusercontent.com/121310040/235448572-8e476bcf-60a3-4f69-9ddb-f1df1493a1a6.png)
 # On client button
 ![r2](https://user-images.githubusercontent.com/121310040/235448595-c312bc2e-3a7a-4f07-8128-2a32452caeda.png)
